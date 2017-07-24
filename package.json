@@ -1,0 +1,29 @@
+{
+  "name": "web-chess",
+  "version": "0.0.0",
+  "description": "web-based chess player",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgamon/web-chess.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "Scott Gamon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgamon/web-chess/issues"
+  },
+  "homepage": "https://github.com/sgamon/web-chess#readme",
+  "dependencies": {
+    "chess.js": "*",
+    "chessboardjs": "*",
+    "express": "^4.15.3",
+    "jquery": "*",
+    "open": "0.0.5"
+  }
+}
