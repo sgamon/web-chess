@@ -3,9 +3,10 @@
 A project to create a web-based chess player, using off-the-shelf components:
 
 * [board](http://chessboardjs.com/)
-* [engine]()
+* [engine](https://github.com/jhlywa/chess.js)
+* [ai]()
 
-Not functional yet. 
+In progress. Not functional yet. 
 
 
 
